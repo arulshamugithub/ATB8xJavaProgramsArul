@@ -5,13 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="560b82c3-1e42-483e-8497-a8894be4e9f2" name="Changes" comment="Add the files">
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_13092024/Lab019.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_13092024/Lab020.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_13092024/Lab021.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_13092024/Lab022.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_13092024/Lab023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/LAb032_QnA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/Lab029.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/Lab030_Assignment_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/Lab031_Arithmetic_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/Lab033_Unary_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/Lab034.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/Lab036.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/Lab037_Compound_Assignment_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/Lab039_Logical_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/Lab040.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/Lab041.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/Lab043.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/Lab044.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/Lab38_Relational_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/sep130924/task001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/sep130924/task002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/sep160324/task001.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sept/ex_09092024/Lab001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex_09092024/Lab001.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,24 +64,37 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.LAb032_QnA.executor": "Run",
     "Application.Lab019.executor": "Run",
     "Application.Lab020.executor": "Run",
     "Application.Lab021.executor": "Run",
     "Application.Lab022.executor": "Run",
     "Application.Lab023.executor": "Run",
+    "Application.Lab029.executor": "Run",
+    "Application.Lab031_Arithmetic_Operator.executor": "Run",
+    "Application.Lab032_QnA.executor": "Run",
+    "Application.Lab033_Unary_Operator.executor": "Run",
+    "Application.Lab034.executor": "Run",
+    "Application.Lab036.executor": "Run",
+    "Application.Lab037_Compound_Assignment_Operators.executor": "Run",
+    "Application.Lab039_Logical_Operator.executor": "Run",
+    "Application.Lab040.executor": "Run",
+    "Application.Lab041.executor": "Run",
+    "Application.Lab043.executor": "Run",
+    "Application.Lab38_Relational_Operators.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Admin/IdeaProjects/ATB8xJavaProgramsArul/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab023">
-    <configuration name="Lab019" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept.ex_13092024.Lab019" />
+  <component name="RunManager" selected="Application.task001">
+    <configuration name="Lab039_Logical_Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sept.ex_16092024.Lab039_Logical_Operator" />
       <module name="ATB8xJavaProgramsArul" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sept.ex_13092024.*" />
+          <option name="PATTERN" value="Sept.ex_16092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab020" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept.ex_13092024.Lab020" />
+    <configuration name="Lab040" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sept.ex_16092024.Lab040" />
       <module name="ATB8xJavaProgramsArul" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sept.ex_13092024.*" />
+          <option name="PATTERN" value="Sept.ex_16092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab021" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept.ex_13092024.Lab021" />
+    <configuration name="Lab041" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sept.ex_16092024.Lab041" />
       <module name="ATB8xJavaProgramsArul" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sept.ex_13092024.*" />
+          <option name="PATTERN" value="Sept.ex_16092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab022" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept.ex_13092024.Lab022" />
+    <configuration name="Lab043" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sept.ex_16092024.Lab043" />
       <module name="ATB8xJavaProgramsArul" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sept.ex_13092024.*" />
+          <option name="PATTERN" value="Sept.ex_16092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept.ex_13092024.Lab023" />
+    <configuration name="task001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.sep160324.task001" />
       <module name="ATB8xJavaProgramsArul" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sept.ex_13092024.*" />
+          <option name="PATTERN" value="Task.sep160324.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab023" />
-        <item itemvalue="Application.Lab022" />
-        <item itemvalue="Application.Lab021" />
-        <item itemvalue="Application.Lab020" />
-        <item itemvalue="Application.Lab019" />
+        <item itemvalue="Application.task001" />
+        <item itemvalue="Application.Lab043" />
+        <item itemvalue="Application.Lab041" />
+        <item itemvalue="Application.Lab040" />
+        <item itemvalue="Application.Lab039_Logical_Operator" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725966360965</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add the files">
+      <option name="closed" value="true" />
+      <created>1726231504585</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726231504585</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
