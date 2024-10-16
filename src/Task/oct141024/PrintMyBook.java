@@ -1,23 +1,16 @@
 package Task.oct141024;
 
 public class PrintMyBook extends BookClass{
+
+    public PrintMyBook(String name, double price, String author) {
+      super(name, price, author);
+
+    }
+
     @Override
     void getDetails() {
-        System.out.println("Got Details");
-    }
-
-    @Override
-    void getName() {
-        System.out.println("Harry Potter");
-    }
-
-    @Override
-    void getAuthor() {
-        System.out.println("JK Rowling");
-    }
-
-    @Override
-    void getPrice() {
-        System.out.println("$120");
+        System.out.println(name);
+        System.out.println(author);
+        System.out.println(price);
     }
 }
