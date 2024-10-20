@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="560b82c3-1e42-483e-8497-a8894be4e9f2" name="Changes" comment="Add the files">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_16102024/APIConstantsEndpoints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_16102024/Lab151_static.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_16102024/Lab152.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_16102024/Lab153.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_16102024/Lab154.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_16102024/Lab155.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_16102024/Lab156.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024_Strings/Lab159.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024_Strings/Lab160_String_Equals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024_Strings/Lab161_String_Functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024_Strings/Lab162_String_immutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024_Strings/Lab163_StringBuilder_StringBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/oct181024/Reverse_Poly.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -157,11 +156,17 @@
     "Application.Lab153.executor": "Run",
     "Application.Lab155.executor": "Run",
     "Application.Lab156.executor": "Run",
+    "Application.Lab159.executor": "Run",
+    "Application.Lab160_String_Functions.executor": "Run",
+    "Application.Lab161_String_Functions.executor": "Run",
+    "Application.Lab162_String_immutable.executor": "Run",
+    "Application.Lab163_StringBuilder_StringBuffer.executor": "Run",
     "Application.Lab38_Relational_Operators.executor": "Run",
     "Application.Oct.ex09102024_poly.methodoverriding.Lab133.executor": "Run",
     "Application.Output.executor": "Run",
     "Application.Person.executor": "Run",
     "Application.Prime_numbers.executor": "Run",
+    "Application.Reverse_Poly.executor": "Run",
     "Application.Table_of_10.executor": "Run",
     "Application.calculatorusing_switch.executor": "Run",
     "Application.diff_w_do_w.executor": "Run",
@@ -181,13 +186,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab156">
-    <configuration name="Lab151_static" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_16102024.Lab151_static" />
+  <component name="RunManager" selected="Application.Reverse_Poly">
+    <configuration name="Lab159" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_18102024_Strings.Lab159" />
       <module name="ATB8xJavaProgramsArul" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_16102024.*" />
+          <option name="PATTERN" value="Oct.ex_18102024_Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,12 +200,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab152" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_16102024.Lab152" />
+    <configuration name="Lab161_String_Functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_18102024_Strings.Lab161_String_Functions" />
       <module name="ATB8xJavaProgramsArul" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_16102024.*" />
+          <option name="PATTERN" value="Oct.ex_18102024_Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,12 +213,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab153" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_16102024.Lab153" />
+    <configuration name="Lab162_String_immutable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_18102024_Strings.Lab162_String_immutable" />
       <module name="ATB8xJavaProgramsArul" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_16102024.*" />
+          <option name="PATTERN" value="Oct.ex_18102024_Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,12 +226,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab155" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_16102024.Lab155" />
+    <configuration name="Lab163_StringBuilder_StringBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_18102024_Strings.Lab163_StringBuilder_StringBuffer" />
       <module name="ATB8xJavaProgramsArul" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_16102024.*" />
+          <option name="PATTERN" value="Oct.ex_18102024_Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,12 +239,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab156" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_16102024.Lab156" />
+    <configuration name="Reverse_Poly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.oct181024.Reverse_Poly" />
       <module name="ATB8xJavaProgramsArul" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_16102024.*" />
+          <option name="PATTERN" value="Task.oct181024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,11 +254,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab156" />
-        <item itemvalue="Application.Lab155" />
-        <item itemvalue="Application.Lab153" />
-        <item itemvalue="Application.Lab152" />
-        <item itemvalue="Application.Lab151_static" />
+        <item itemvalue="Application.Reverse_Poly" />
+        <item itemvalue="Application.Lab163_StringBuilder_StringBuffer" />
+        <item itemvalue="Application.Lab162_String_immutable" />
+        <item itemvalue="Application.Lab159" />
+        <item itemvalue="Application.Lab161_String_Functions" />
       </list>
     </recent_temporary>
   </component>
@@ -410,7 +415,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729080380889</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Add the files">
+      <option name="closed" value="true" />
+      <created>1729167548152</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1729167548152</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
