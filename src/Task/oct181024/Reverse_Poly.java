@@ -4,8 +4,9 @@ import java.sql.SQLOutput;
 
 public class Reverse_Poly {
     public static void main(String[] args) {
-        String str = "madam";
+        String str = "pramod";
         String rev ="";
+
         int i = 0;
         for(i = str.length()-1; i>=0; i-- )
         {
@@ -18,5 +19,11 @@ public class Reverse_Poly {
             System.out.println("not a Poly");
 
         }
+        //finding length with for loop
+        int length = 0;
+        for (char c : str.toCharArray()){
+            length++;
+        }
+        System.out.println(length);
     }
 }
