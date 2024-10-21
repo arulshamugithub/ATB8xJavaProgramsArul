@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="560b82c3-1e42-483e-8497-a8894be4e9f2" name="Changes" comment="Add the files">
-      <change beforePath="$PROJECT_DIR$/src/Task/oct181024/Reverse_Poly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task/oct181024/Reverse_Poly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_Wrapper_Exception/Lab166.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_Wrapper_Exception/Lab167.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_Wrapper_Exception/Lab168.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_Wrapper_Exception/Lab169.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_Wrapper_Exception/Lab170_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_Wrapper_Exception/Lab170_Exception_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_Wrapper_Exception/Lab171_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_Wrapper_Exception/Lab172_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_Wrapper_Exception/Lab173_Exception.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +57,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.171_1.executor": "Run",
     "Application.APIAutomation.executor": "Run",
     "Application.Converting.executor": "Run",
     "Application.Count_vowels.executor": "Run",
@@ -155,6 +165,12 @@
     "Application.Lab161_String_Functions.executor": "Run",
     "Application.Lab162_String_immutable.executor": "Run",
     "Application.Lab163_StringBuilder_StringBuffer.executor": "Run",
+    "Application.Lab167.executor": "Run",
+    "Application.Lab168.executor": "Run",
+    "Application.Lab170.executor": "Run",
+    "Application.Lab171_Exception.executor": "Run",
+    "Application.Lab172_Exception.executor": "Run",
+    "Application.Lab173_Exception.executor": "Run",
     "Application.Lab38_Relational_Operators.executor": "Run",
     "Application.Oct.ex09102024_poly.methodoverriding.Lab133.executor": "Run",
     "Application.Output.executor": "Run",
@@ -180,29 +196,11 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Reverse_Poly">
-    <configuration name="Lab159" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_18102024_Strings.Lab159" />
+  <component name="RunManager" selected="Application.Lab173_Exception">
+    <configuration name="171_1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_21102024_Wrapper_Exception.Lab170_Exception_1" />
       <module name="ATB8xJavaProgramsArul" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Oct.ex_18102024_Strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab161_String_Functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_18102024_Strings.Lab161_String_Functions" />
-      <module name="ATB8xJavaProgramsArul" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Oct.ex_18102024_Strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PROGRAM_PARAMETERS" value="10" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -233,6 +231,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab170" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_21102024_Wrapper_Exception.Lab170_Exception" />
+      <module name="ATB8xJavaProgramsArul" />
+      <option name="PROGRAM_PARAMETERS" value="10 11 12" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab171_Exception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_21102024_Wrapper_Exception.Lab171_Exception" />
+      <module name="ATB8xJavaProgramsArul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oct.ex_21102024_Wrapper_Exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab173_Exception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_21102024_Wrapper_Exception.Lab173_Exception" />
+      <module name="ATB8xJavaProgramsArul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oct.ex_21102024_Wrapper_Exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Reverse_Poly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task.oct181024.Reverse_Poly" />
       <module name="ATB8xJavaProgramsArul" />
@@ -246,13 +278,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Lab170" />
+      <item itemvalue="Application.171_1" />
+      <item itemvalue="Application.Lab171_Exception" />
+      <item itemvalue="Application.Lab173_Exception" />
+      <item itemvalue="Application.Lab162_String_immutable" />
+      <item itemvalue="Application.Lab163_StringBuilder_StringBuffer" />
+      <item itemvalue="Application.Reverse_Poly" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab173_Exception" />
+        <item itemvalue="Application.Lab171_Exception" />
         <item itemvalue="Application.Reverse_Poly" />
         <item itemvalue="Application.Lab163_StringBuilder_StringBuffer" />
         <item itemvalue="Application.Lab162_String_immutable" />
-        <item itemvalue="Application.Lab159" />
-        <item itemvalue="Application.Lab161_String_Functions" />
       </list>
     </recent_temporary>
   </component>
@@ -425,7 +466,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729448779411</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Add the files">
+      <option name="closed" value="true" />
+      <created>1729449162931</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1729449162931</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
