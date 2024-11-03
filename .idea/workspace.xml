@@ -5,15 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="560b82c3-1e42-483e-8497-a8894be4e9f2" name="Changes" comment="Add the files">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_Wrapper_Exception/Lab166.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_Wrapper_Exception/Lab167.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_Wrapper_Exception/Lab168.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_Wrapper_Exception/Lab169.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_Wrapper_Exception/Lab170_Exception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_Wrapper_Exception/Lab170_Exception_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_Wrapper_Exception/Lab171_Exception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_Wrapper_Exception/Lab172_Exception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_Wrapper_Exception/Lab173_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_25102024_Arrays/Lab188_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_25102024_Arrays/Lab189_Arrays_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_25102024_Arrays/Lab190_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_25102024_Arrays/Lab191_2DArray_Iteration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_25102024_Arrays/Lab192_Arrays_rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_CollectionFramework/Lab197_Array_ArrayList_CF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_CollectionFramework/Lab198_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_CollectionFramework/Lab198_List_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_CollectionFramework/Lab200_List_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_CollectionFramework/Lab202_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_CollectionFramework/Lab202_ArrayList_Iterate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_CollectionFramework/Lab204_Vector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024_List/Lab209_SET.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024_List/Lab209_SET_HS_LHS_TS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_3010204_CollectionFrameWork2/Lab205_LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_3010204_CollectionFrameWork2/Lab207_Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_3010204_CollectionFrameWork2/Lab208_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/oct251024/Pyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/oct251024/Reverse_triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -171,12 +181,29 @@
     "Application.Lab171_Exception.executor": "Run",
     "Application.Lab172_Exception.executor": "Run",
     "Application.Lab173_Exception.executor": "Run",
+    "Application.Lab188_Arrays.executor": "Run",
+    "Application.Lab189_Arrays_String.executor": "Run",
+    "Application.Lab190_Arrays.executor": "Run",
+    "Application.Lab191_2DArray_Iteration.executor": "Run",
+    "Application.Lab192_Arrays_rectangle.executor": "Debug",
+    "Application.Lab197_Array_ArrayList_CF.executor": "Run",
+    "Application.Lab198_List.executor": "Run",
+    "Application.Lab198_List_2.executor": "Run",
+    "Application.Lab200_List_ArrayList.executor": "Run",
+    "Application.Lab202_ArrayList_Iterate.executor": "Run",
+    "Application.Lab205_LinkedList.executor": "Run",
+    "Application.Lab207_Stack.executor": "Run",
+    "Application.Lab208_List.executor": "Run",
+    "Application.Lab209_SET.executor": "Run",
+    "Application.Lab209_SET_HS_LHS_TS.executor": "Run",
     "Application.Lab38_Relational_Operators.executor": "Run",
     "Application.Oct.ex09102024_poly.methodoverriding.Lab133.executor": "Run",
     "Application.Output.executor": "Run",
     "Application.Person.executor": "Run",
     "Application.Prime_numbers.executor": "Run",
+    "Application.Pyramid.executor": "Run",
     "Application.Reverse_Poly.executor": "Run",
+    "Application.Reverse_triangle.executor": "Run",
     "Application.Table_of_10.executor": "Run",
     "Application.calculatorusing_switch.executor": "Run",
     "Application.diff_w_do_w.executor": "Run",
@@ -196,37 +223,11 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab173_Exception">
+  <component name="RunManager" selected="Application.Lab200_List_ArrayList">
     <configuration name="171_1" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Oct.ex_21102024_Wrapper_Exception.Lab170_Exception_1" />
       <module name="ATB8xJavaProgramsArul" />
       <option name="PROGRAM_PARAMETERS" value="10" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab162_String_immutable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_18102024_Strings.Lab162_String_immutable" />
-      <module name="ATB8xJavaProgramsArul" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Oct.ex_18102024_Strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab163_StringBuilder_StringBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_18102024_Strings.Lab163_StringBuilder_StringBuffer" />
-      <module name="ATB8xJavaProgramsArul" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Oct.ex_18102024_Strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -239,12 +240,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab171_Exception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_21102024_Wrapper_Exception.Lab171_Exception" />
+    <configuration name="Lab192_Arrays_rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_25102024_Arrays.Lab192_Arrays_rectangle" />
       <module name="ATB8xJavaProgramsArul" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_21102024_Wrapper_Exception.*" />
+          <option name="PATTERN" value="Oct.ex_25102024_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,12 +253,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab173_Exception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_21102024_Wrapper_Exception.Lab173_Exception" />
+    <configuration name="Lab198_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_28102024_CollectionFramework.Lab198_List" />
       <module name="ATB8xJavaProgramsArul" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_21102024_Wrapper_Exception.*" />
+          <option name="PATTERN" value="Oct.ex_28102024_CollectionFramework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -265,12 +266,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse_Poly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.oct181024.Reverse_Poly" />
+    <configuration name="Lab198_List_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_28102024_CollectionFramework.Lab198_List_2" />
       <module name="ATB8xJavaProgramsArul" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task.oct181024.*" />
+          <option name="PATTERN" value="Oct.ex_28102024_CollectionFramework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab200_List_ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_28102024_CollectionFramework.Lab200_List_ArrayList" />
+      <module name="ATB8xJavaProgramsArul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oct.ex_28102024_CollectionFramework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.oct251024.Pyramid" />
+      <module name="ATB8xJavaProgramsArul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task.oct251024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -281,19 +308,19 @@
     <list>
       <item itemvalue="Application.Lab170" />
       <item itemvalue="Application.171_1" />
-      <item itemvalue="Application.Lab171_Exception" />
-      <item itemvalue="Application.Lab173_Exception" />
-      <item itemvalue="Application.Lab162_String_immutable" />
-      <item itemvalue="Application.Lab163_StringBuilder_StringBuffer" />
-      <item itemvalue="Application.Reverse_Poly" />
+      <item itemvalue="Application.Lab198_List" />
+      <item itemvalue="Application.Lab198_List_2" />
+      <item itemvalue="Application.Lab200_List_ArrayList" />
+      <item itemvalue="Application.Lab192_Arrays_rectangle" />
+      <item itemvalue="Application.Pyramid" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab173_Exception" />
-        <item itemvalue="Application.Lab171_Exception" />
-        <item itemvalue="Application.Reverse_Poly" />
-        <item itemvalue="Application.Lab163_StringBuilder_StringBuffer" />
-        <item itemvalue="Application.Lab162_String_immutable" />
+        <item itemvalue="Application.Lab200_List_ArrayList" />
+        <item itemvalue="Application.Lab198_List_2" />
+        <item itemvalue="Application.Lab198_List" />
+        <item itemvalue="Application.Lab192_Arrays_rectangle" />
+        <item itemvalue="Application.Pyramid" />
       </list>
     </recent_temporary>
   </component>
@@ -474,7 +501,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729449162931</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Add the files">
+      <option name="closed" value="true" />
+      <created>1729534304566</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1729534304566</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
